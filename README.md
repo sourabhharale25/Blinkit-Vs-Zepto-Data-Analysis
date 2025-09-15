@@ -1,4 +1,4 @@
-Zepto vs Blinkit: SQL Business Analysis 🧠📊
+                                                                                   Zepto vs Blinkit: SQL Business Analysis 🧠📊
 This project analyzes and compares two Indian delivery giants — Zepto and Blinkit — using SQL.
 A total of 12 business questions are answered through modular SQL views, raw queries, and PowerPoint visuals.
 
@@ -51,8 +51,6 @@ Run views_script.sql to create all views
 Run any query or SELECT * FROM view_name to analyze
 Open the .pptx file to view business-level insights
 📎 Project Author
-Adhish Saxena
-📧 Email: adhishsaxena222@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/adhish-saxena-a37a23322
+Sourabh Harale
 🛠️ Tools: Python, SQL, Excel, Power BI, MySQL
 
